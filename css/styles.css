@@ -175,6 +175,8 @@ hr{
   margin-top: 2%;
 }
 
+
+
 .sketch{
   float: left;
   margin-right: 1%;
@@ -197,6 +199,13 @@ hr{
   float: right;
   margin-left: 2%;
   margin-top: 5%;
+}
+.fr-end{
+  float: left;
+  margin-right: 5%;
+  margin-top: 6%;
+  padding-bottom: 1%;
+  width: 30%;
 }
 
 .bol{
@@ -406,6 +415,13 @@ hr{
     position: relative;
     width: 75%;
     right: 6%;
+  }
+  .fr-end{
+    margin-bottom: 2%;
+    padding: 1% 5%;
+    position: relative;
+    width: 80%;
+    left: 7%;
   }
   .git{
     font-size: 135%;
